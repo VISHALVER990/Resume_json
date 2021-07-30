@@ -1,0 +1,61 @@
+{
+	"basics": {
+		"name": "Vishal Verma",
+		"label": "Student",
+		"picture": "vishal.jpg",
+		"email": "2019kuec2034@iiitkota.ac.in",
+		"phone": "9565344334",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication Engineering.",
+		"location": {
+			"address": "ASP ENTERPRISES Salpur Bazar Gonda",
+			"postalCode": "271601",
+			"city": "GONDA",
+			"countryCode": "India",
+			"region": "UTTAR PRADESH"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://twitter.com/Verma__vishal"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/VISHALVER990/VISHALVER990.github.io"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/vishal-verma-9049031a3"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://www.instagram.com/its._vishal_verma/"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-07-05 //Date",
+		"endDate": "2023",
+		"gpa": "8.35",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	"references": []
+}
